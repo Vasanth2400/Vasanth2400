@@ -41,5 +41,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Vasanth2400/Vasanth2400/tree/master/0009-palindrome-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Vasanth2400/Vasanth2400/tree/master/2238-a-number-after-a-double-reversal) |
 <!---LeetCode Topics End-->
