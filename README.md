@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vasanth2400/Vasanth2400/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/Vasanth2400/Vasanth2400/tree/master/0010-regular-expression-matching) |
 ## Sliding Window
 |  |
 | ------- |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vasanth2400/Vasanth2400/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Vasanth2400/Vasanth2400/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Vasanth2400/Vasanth2400/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
