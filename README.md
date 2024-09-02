@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vasanth2400/Vasanth2400/tree/master/0004-median-of-two-sorted-arrays) |
 | [1325-path-with-maximum-probability](https://github.com/Vasanth2400/Vasanth2400/tree/master/1325-path-with-maximum-probability) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vasanth2400/Vasanth2400/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vasanth2400/Vasanth2400/tree/master/0004-median-of-two-sorted-arrays) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vasanth2400/Vasanth2400/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -44,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Vasanth2400/Vasanth2400/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vasanth2400/Vasanth2400/tree/master/0009-palindrome-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Vasanth2400/Vasanth2400/tree/master/2238-a-number-after-a-double-reversal) |
+## Simulation
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vasanth2400/Vasanth2400/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vasanth2400/Vasanth2400/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
